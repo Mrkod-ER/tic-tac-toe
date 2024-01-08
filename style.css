@@ -30,9 +30,10 @@ body{
     box-shadow: 0 0 1rem rgd(0, 0, 0, 0.1);
     font-size: 8vmin;
     color: #b0413e;
+    background-color: aquamarine;
     
 }
-#resetbutton{
+#reset-btn{
     padding: 1rem;
     font-size: 1.25rem;
     background-color: #191913;
